@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 import mnist_loader
 import pdb
 
+data_set_size = 1250
 
 
 
@@ -23,8 +24,9 @@ training_data, validation_data, test_data = mnist_loader.load_data_wrapper()
 training_data = np.array(list(training_data))
 test_data=np.array(list(test_data))
 
-X=np.reshape(np.concatenate(training_data[:,0]),(50000,784))
-y_matrix=np.reshape(np.concatenate(training_data[:,1]),(50000,10))
+training_data = training_data[:data_set_size]
+X=np.reshape(np.concatenate(training_data[:,0]),(data_set_size,784))
+y_matrix=np.reshape(np.concatenate(training_data[:,1]),(data_set_size,10))
 
 X_test=np.reshape(np.concatenate(test_data[:,0]),(10000,784))
 y_test=np.reshape(np.concatenate(np.array([test_data[:,1]]).T),(10000,1))
@@ -201,10 +203,4 @@ def showImage(img):
 
 if __name__ == "__main__":
     
-    theta=trainMiniBatch(epochs=50,batch_size=10,alpha=.001,lmbda=.001)
-    
-    
-    
-    
-    
-    
+    theta=trainMiniBatch(epochs=80,batch_size=10,alpha=.001,lmbda=.001)
