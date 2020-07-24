@@ -1,0 +1,1050 @@
+epoch, 1, alpha: 0.001, lmbda: 0.001, J_batch = : 5.2300197057327455, J_total=5.14786840794133, J_test=5.1529406024751205, J_diff=-0.005072194533790153
+training accuracy is, 0.096
+test accuracy is, 0.0891
+ epoch, 2, alpha: 0.001, lmbda: 0.001, J_batch = : 4.193926838223864, J_total=4.119249524328944, J_test=4.124504375896651, J_diff=-0.005254851567706886
+training accuracy is, 0.1224
+test accuracy is, 0.114
+ epoch, 3, alpha: 0.001, lmbda: 0.001, J_batch = : 3.7106727981380083, J_total=3.6323154874450307, J_test=3.636555305359777, J_diff=-0.004239817914746258
+training accuracy is, 0.1408
+test accuracy is, 0.1246
+ epoch, 4, alpha: 0.001, lmbda: 0.001, J_batch = : 3.504337419939096, J_total=3.4192299565562325, J_test=3.422818558601365, J_diff=-0.0035886020451325606
+training accuracy is, 0.1464
+test accuracy is, 0.1265
+ epoch, 5, alpha: 0.001, lmbda: 0.001, J_batch = : 3.416672801766274, J_total=3.3252008889253273, J_test=3.328529603674038, J_diff=-0.0033287147487106594
+training accuracy is, 0.154
+test accuracy is, 0.1319
+ epoch, 6, alpha: 0.001, lmbda: 0.001, J_batch = : 3.378073859472801, J_total=3.281829825057652, J_test=3.285117359863836, J_diff=-0.003287534806184045
+training accuracy is, 0.1628
+test accuracy is, 0.1382
+ epoch, 7, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3598064456186987, J_total=3.26052207029872, J_test=3.263873373811519, J_diff=-0.0033513035127987756
+training accuracy is, 0.1696
+test accuracy is, 0.1452
+ epoch, 8, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3499595495743684, J_total=3.2491098357908847, J_test=3.252570298269877, J_diff=-0.0034604624789924543
+training accuracy is, 0.1832
+test accuracy is, 0.1524
+ epoch, 9, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3435225274040743, J_total=3.2422414511199746, J_test=3.2458269004296354, J_diff=-0.00358544930966076
+training accuracy is, 0.192
+test accuracy is, 0.162
+ epoch, 10, alpha: 0.001, lmbda: 0.001, J_batch = : 3.338374450407024, J_total=3.2374883443070206, J_test=3.2412003596072836, J_diff=-0.003712015300262994
+training accuracy is, 0.2032
+test accuracy is, 0.1738
+ epoch, 11, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3336265917490464, J_total=3.2337193628161502, J_test=3.2375530506488173, J_diff=-0.003833687832667021
+training accuracy is, 0.2128
+test accuracy is, 0.1852
+ epoch, 12, alpha: 0.001, lmbda: 0.001, J_batch = : 3.328918851980293, J_total=3.2303960885727667, J_test=3.23434405748613, J_diff=-0.003947968913363464
+training accuracy is, 0.2224
+test accuracy is, 0.197
+ epoch, 13, alpha: 0.001, lmbda: 0.001, J_batch = : 3.32411536432053, J_total=3.227257052921675, J_test=3.2313114357276995, J_diff=-0.004054382806024659
+training accuracy is, 0.2304
+test accuracy is, 0.2109
+ epoch, 14, alpha: 0.001, lmbda: 0.001, J_batch = : 3.319171909616894, J_total=3.2241723916124045, J_test=3.228325840975209, J_diff=-0.004153449362804373
+training accuracy is, 0.2396
+test accuracy is, 0.2249
+ epoch, 15, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3140786929911705, J_total=3.2210755571529432, J_test=3.2253216923456156, J_diff=-0.004246135192672362
+training accuracy is, 0.2512
+test accuracy is, 0.2372
+ epoch, 16, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3088364186059387, J_total=3.217930733707044, J_test=3.2222642935449772, J_diff=-0.004333559837933265
+training accuracy is, 0.26
+test accuracy is, 0.2493
+ epoch, 17, alpha: 0.001, lmbda: 0.001, J_batch = : 3.3034469771229835, J_total=3.21471710662595, J_test=3.219133948526965, J_diff=-0.0044168419010151005
+training accuracy is, 0.2752
+test accuracy is, 0.2594
+ epoch, 18, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2979103811861066, J_total=3.2114212020347184, J_test=3.2159182253848253, J_diff=-0.004497023350106932
+training accuracy is, 0.2872
+test accuracy is, 0.269
+ epoch, 19, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2922242218297018, J_total=3.208033131843883, J_test=3.2126081695010043, J_diff=-0.004575037657121417
+training accuracy is, 0.2976
+test accuracy is, 0.2782
+ epoch, 20, alpha: 0.001, lmbda: 0.001, J_batch = : 3.286384019419337, J_total=3.2045447443427055, J_test=3.2091964464860663, J_diff=-0.0046517021433607475
+training accuracy is, 0.3088
+test accuracy is, 0.2866
+ epoch, 21, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2803837917169627, J_total=3.200948710774644, J_test=3.2056764339046833, J_diff=-0.00472772313003933
+training accuracy is, 0.3164
+test accuracy is, 0.2961
+ epoch, 22, alpha: 0.001, lmbda: 0.001, J_batch = : 3.274216583435091, J_total=3.1972380743720445, J_test=3.202041781609975, J_diff=-0.0048037072379303325
+training accuracy is, 0.322
+test accuracy is, 0.3035
+ epoch, 23, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2678748823398296, J_total=3.193406029312836, J_test=3.1982862043024785, J_diff=-0.004880174989642327
+training accuracy is, 0.3312
+test accuracy is, 0.3106
+ epoch, 24, alpha: 0.001, lmbda: 0.001, J_batch = : 3.261350918790419, J_total=3.1894458149213647, J_test=3.1944033894760624, J_diff=-0.004957574554697697
+training accuracy is, 0.3412
+test accuracy is, 0.3201
+ epoch, 25, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2546368696622463, J_total=3.185350668382642, J_test=3.190386962877084, J_diff=-0.005036294494442206
+training accuracy is, 0.348
+test accuracy is, 0.3304
+ epoch, 26, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2477249918641986, J_total=3.181113807852753, J_test=3.186230482825033, J_diff=-0.0051166749722799665
+training accuracy is, 0.3584
+test accuracy is, 0.3405
+ epoch, 27, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2406077076512836, J_total=3.176728432029331, J_test=3.181927449281133, J_diff=-0.005199017251801941
+training accuracy is, 0.3712
+test accuracy is, 0.3517
+ epoch, 28, alpha: 0.001, lmbda: 0.001, J_batch = : 3.233277659013148, J_total=3.1721877292977974, J_test=3.1774713208047114, J_diff=-0.005283591506914043
+training accuracy is, 0.3824
+test accuracy is, 0.3604
+ epoch, 29, alpha: 0.001, lmbda: 0.001, J_batch = : 3.22572774369307, J_total=3.1674848930861326, J_test=3.1728555361606303, J_diff=-0.00537064307449775
+training accuracy is, 0.3944
+test accuracy is, 0.3715
+ epoch, 30, alpha: 0.001, lmbda: 0.001, J_batch = : 3.217951141531057, J_total=3.1626131418186545, J_test=3.1680735391476538, J_diff=-0.005460397328999278
+training accuracy is, 0.4016
+test accuracy is, 0.3827
+ epoch, 31, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2099413369077805, J_total=3.1575657427363257, J_test=3.1631188061098565, J_diff=-0.005553063373530787
+training accuracy is, 0.4124
+test accuracy is, 0.3924
+ epoch, 32, alpha: 0.001, lmbda: 0.001, J_batch = : 3.2016921409595045, J_total=3.1523360392826296, J_test=3.157984876021049, J_diff=-0.005648836738419316
+training accuracy is, 0.4228
+test accuracy is, 0.4026
+ epoch, 33, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1931977157535654, J_total=3.1469174819549095, J_test=3.152665383219532, J_diff=-0.005747901264622435
+training accuracy is, 0.4316
+test accuracy is, 0.4143
+ epoch, 34, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1844526015877106, J_total=3.1413036625962714, J_test=3.147154092928054, J_diff=-0.0058504303317827855
+training accuracy is, 0.4424
+test accuracy is, 0.4242
+ epoch, 35, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1754517478658064, J_total=3.1354883521032666, J_test=3.141444939675106, J_diff=-0.005956587571839478
+training accuracy is, 0.45
+test accuracy is, 0.4358
+ epoch, 36, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1661905475024357, J_total=3.129465541472926, J_test=3.1355320686641845, J_diff=-0.006066527191258331
+training accuracy is, 0.4572
+test accuracy is, 0.4451
+ epoch, 37, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1566648744453074, J_total=3.123229486020212, J_test=3.1294098800288377, J_diff=-0.0061803940086258
+training accuracy is, 0.4656
+test accuracy is, 0.4549
+ epoch, 38, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1468711236270037, J_total=3.116774752469088, J_test=3.123073075769526, J_diff=-0.006298323300438113
+training accuracy is, 0.4748
+test accuracy is, 0.4638
+ epoch, 39, alpha: 0.001, lmbda: 0.001, J_batch = : 3.136806252435268, J_total=3.110096268462025, J_test=3.1165167089981733, J_diff=-0.00642044053614832
+training accuracy is, 0.482
+test accuracy is, 0.4721
+ epoch, 40, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1264678226072116, J_total=3.1031893738501624, J_test=3.1097362349239743, J_diff=-0.0065468610738119715
+training accuracy is, 0.4892
+test accuracy is, 0.4783
+ epoch, 41, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1158540413023164, J_total=3.0960498729288983, J_test=3.1027275628085382, J_diff=-0.006677689879639903
+training accuracy is, 0.4972
+test accuracy is, 0.4865
+ epoch, 42, alpha: 0.001, lmbda: 0.001, J_batch = : 3.1049637999945645, J_total=3.088674086584274, J_test=3.095487107911767, J_diff=-0.006813021327492841
+training accuracy is, 0.5056
+test accuracy is, 0.4938
+ epoch, 43, alpha: 0.001, lmbda: 0.001, J_batch = : 3.0937967097540024, J_total=3.081058903130526, J_test=3.0880118422578113, J_diff=-0.00695293912728534
+training accuracy is, 0.514
+test accuracy is, 0.4999
+ epoch, 44, alpha: 0.001, lmbda: 0.001, J_batch = : 3.0823531314736483, J_total=3.073201826467308, J_test=3.080299342890635, J_diff=-0.0070975164233271215
+training accuracy is, 0.5208
+test accuracy is, 0.5056
+ epoch, 45, alpha: 0.001, lmbda: 0.001, J_batch = : 3.070634199650507, J_total=3.0651010200861064, J_test=3.072347836180181, J_diff=-0.007246816094074404
+training accuracy is, 0.5276
+test accuracy is, 0.5124
+ epoch, 46, alpha: 0.001, lmbda: 0.001, J_batch = : 3.0586418384585325, J_total=3.0567553454274545, J_test=3.0641562367004913, J_diff=-0.00740089127303678
+training accuracy is, 0.5324
+test accuracy is, 0.5184
+ epoch, 47, alpha: 0.001, lmbda: 0.001, J_batch = : 3.0463787690610467, J_total=3.04816439314837, J_test=3.055724179244814, J_diff=-0.007559786096444032
+training accuracy is, 0.5376
+test accuracy is, 0.5226
+ epoch, 48, alpha: 0.001, lmbda: 0.001, J_batch = : 3.033848507397766, J_total=3.0393285060109796, J_test=3.04705204267802, J_diff=-0.007723536667040509
+training accuracy is, 0.5408
+test accuracy is, 0.5282
+ epoch, 49, alpha: 0.001, lmbda: 0.001, J_batch = : 3.0210553520366648, J_total=3.0302487923484644, J_test=3.038140964554386, J_diff=-0.007892172205921533
+training accuracy is, 0.5456
+test accuracy is, 0.532
+ epoch, 50, alpha: 0.001, lmbda: 0.001, J_batch = : 3.008004362084585, J_total=3.020927129393477, J_test=3.0289928457404502, J_diff=-0.008065716346973062
+training accuracy is, 0.548
+test accuracy is, 0.5365
+ epoch, 51, alpha: 0.001, lmbda: 0.001, J_batch = : 2.994701325577092, J_total=3.0113661561478535, J_test=3.019610344660768, J_diff=-0.00824418851291453
+training accuracy is, 0.5508
+test accuracy is, 0.5398
+ epoch, 52, alpha: 0.001, lmbda: 0.001, J_batch = : 2.9811527191864466, J_total=3.00156925590355, J_test=3.009996861203479, J_diff=-0.00842760529992903
+training accuracy is, 0.5532
+test accuracy is, 0.5433
+ epoch, 53, alpha: 0.001, lmbda: 0.001, J_batch = : 2.967365660464517, J_total=2.9915405289606554, J_test=3.000156510751648, J_diff=-0.008615981790992766
+training accuracy is, 0.5572
+test accuracy is, 0.5476
+ epoch, 54, alpha: 0.001, lmbda: 0.001, J_batch = : 2.9533478541440386, J_total=2.981284756494762, J_test=2.990094089212246, J_diff=-0.008809332717484075
+training accuracy is, 0.562
+test accuracy is, 0.5507
+ epoch, 55, alpha: 0.001, lmbda: 0.001, J_batch = : 2.9391075342319803, J_total=2.9708073568709685, J_test=2.9798150302656587, J_diff=-0.009007673394690219
+training accuracy is, 0.564
+test accuracy is, 0.5523
+ epoch, 56, alpha: 0.001, lmbda: 0.001, J_batch = : 2.9246534037263743, J_total=2.9601143359592164, J_test=2.9693253563286732, J_diff=-0.009211020369456868
+training accuracy is, 0.566
+test accuracy is, 0.5549
+ epoch, 57, alpha: 0.001, lmbda: 0.001, J_batch = : 2.9099945737671415, J_total=2.9492122331587574, J_test=2.9586316248947124, J_diff=-0.009419391735955074
+training accuracy is, 0.5692
+test accuracy is, 0.5581
+ epoch, 58, alpha: 0.001, lmbda: 0.001, J_batch = : 2.895140503897403, J_total=2.938108064881524, J_test=2.9477408719785294, J_diff=-0.009632807097005536
+training accuracy is, 0.5704
+test accuracy is, 0.5609
+ epoch, 59, alpha: 0.001, lmbda: 0.001, J_batch = : 2.8801009448804606, J_total=2.9268092671795265, J_test=2.936660554350883, J_diff=-0.009851287171356304
+training accuracy is, 0.574
+test accuracy is, 0.5641
+ epoch, 60, alpha: 0.001, lmbda: 0.001, J_batch = : 2.864885885212815, J_total=2.9153236390436126, J_test=2.925398492113202, J_diff=-0.010074853069589551
+training accuracy is, 0.5744
+test accuracy is, 0.566
+ epoch, 61, alpha: 0.001, lmbda: 0.001, J_batch = : 2.8495055021243476, J_total=2.9036592876708025, J_test=2.9139628129518993, J_diff=-0.010303525281096793
+training accuracy is, 0.5764
+test accuracy is, 0.5671
+ epoch, 62, alpha: 0.001, lmbda: 0.001, J_batch = : 2.8339701174939216, J_total=2.8918245767199355, J_test=2.90236189915003, J_diff=-0.01053732243009442
+training accuracy is, 0.5796
+test accuracy is, 0.5693
+ epoch, 63, alpha: 0.001, lmbda: 0.001, J_batch = : 2.818290158761237, J_total=2.879828078276414, J_test=2.890604338145558, J_diff=-0.010776259869143878
+training accuracy is, 0.5812
+test accuracy is, 0.5706
+ epoch, 64, alpha: 0.001, lmbda: 0.001, J_batch = : 2.802476124608523, J_total=2.867678528950782, J_test=2.8786988771343305, J_diff=-0.011020348183548467
+training accuracy is, 0.5836
+test accuracy is, 0.5728
+ epoch, 65, alpha: 0.001, lmbda: 0.001, J_batch = : 2.786538554936988, J_total=2.8553847902630163, J_test=2.8666543819427464, J_diff=-0.011269591679730073
+training accuracy is, 0.5852
+test accuracy is, 0.5744
+ epoch, 66, alpha: 0.001, lmbda: 0.001, J_batch = : 2.770488004483977, J_total=2.842955813229964, J_test=2.8544798001557075, J_diff=-0.011523986925743301
+training accuracy is, 0.5872
+test accuracy is, 0.5756
+ epoch, 67, alpha: 0.001, lmbda: 0.001, J_batch = : 2.7543350193213634, J_total=2.830400606886694, J_test=2.842184128290242, J_diff=-0.011783521403548214
+training accuracy is, 0.5888
+test accuracy is, 0.5769
+ epoch, 68, alpha: 0.001, lmbda: 0.001, J_batch = : 2.7380901154411683, J_total=2.8177282103374885, J_test=2.829776382659207, J_diff=-0.012048172321718287
+training accuracy is, 0.5896
+test accuracy is, 0.5781
+ epoch, 69, alpha: 0.001, lmbda: 0.001, J_batch = : 2.721763758662943, J_total=2.80494766784799, J_test=2.817265573472913, J_diff=-0.012317905624922965
+training accuracy is, 0.5908
+test accuracy is, 0.5791
+ epoch, 70, alpha: 0.001, lmbda: 0.001, J_batch = : 2.705366345177654, J_total=2.792068006451908, J_test=2.8046606816758692, J_diff=-0.012592675223961347
+training accuracy is, 0.592
+test accuracy is, 0.5806
+ epoch, 71, alpha: 0.001, lmbda: 0.001, J_batch = : 2.6889081821612915, J_total=2.779098215546882, J_test=2.79197063800505, J_diff=-0.01287242245816822
+training accuracy is, 0.5932
+test accuracy is, 0.5826
+ epoch, 72, alpha: 0.001, lmbda: 0.001, J_batch = : 2.6723994680342575, J_total=2.766047227986296, J_test=2.779204303777497, J_diff=-0.013157075791200956
+training accuracy is, 0.5952
+test accuracy is, 0.5841
+ epoch, 73, alpha: 0.001, lmbda: 0.001, J_batch = : 2.655850272096659, J_total=2.7529239022286713, J_test=2.7663704529607562, J_diff=-0.013446550732084894
+training accuracy is, 0.596
+test accuracy is, 0.5855
+ epoch, 74, alpha: 0.001, lmbda: 0.001, J_batch = : 2.6392705134231584, J_total=2.7397370051759387, J_test=2.753477755142005, J_diff=-0.013740749966066446
+training accuracy is, 0.5976
+test accuracy is, 0.5863
+ epoch, 75, alpha: 0.001, lmbda: 0.001, J_batch = : 2.622669939044518, J_total=2.7264951954096373, J_test=2.740534759083958, J_diff=-0.01403956367432091
+training accuracy is, 0.5976
+test accuracy is, 0.5875
+ epoch, 76, alpha: 0.001, lmbda: 0.001, J_batch = : 2.606058101569084, J_total=2.7132070066144616, J_test=2.727549876632426, J_diff=-0.014342870017964415
+training accuracy is, 0.598
+test accuracy is, 0.5885
+ epoch, 77, alpha: 0.001, lmbda: 0.001, J_batch = : 2.5894443365012525, J_total=2.6998808310575417, J_test=2.714531366817218, J_diff=-0.014650535759676231
+training accuracy is, 0.5992
+test accuracy is, 0.5906
+ epoch, 78, alpha: 0.001, lmbda: 0.001, J_batch = : 2.572837739592522, J_total=2.6865249030664233, J_test=2.7014873200621303, J_diff=-0.014962416995706995
+training accuracy is, 0.6004
+test accuracy is, 0.5919
+ epoch, 79, alpha: 0.001, lmbda: 0.001, J_batch = : 2.556247144613237, J_total=2.673147282517052, J_test=2.6884256424886437, J_diff=-0.015278359971591549
+training accuracy is, 0.6016
+test accuracy is, 0.5929
+ epoch, 80, alpha: 0.001, lmbda: 0.001, J_batch = : 2.5396811019599053, J_total=2.6597558384038242, J_test=2.675354040360326, J_diff=-0.015598201956501967
+training accuracy is, 0.6036
+test accuracy is, 0.594
+ epoch, 81, alpha: 0.001, lmbda: 0.001, J_batch = : 2.523147858516009, J_total=2.646358232616147, J_test=2.6622800047696646, J_diff=-0.015921772153517644
+training accuracy is, 0.6044
+test accuracy is, 0.5955
+ epoch, 82, alpha: 0.001, lmbda: 0.001, J_batch = : 2.506655339165847, J_total=2.6329619040892007, J_test=2.649210796715234, J_diff=-0.01624889262603313
+training accuracy is, 0.606
+test accuracy is, 0.5968
+ epoch, 83, alpha: 0.001, lmbda: 0.001, J_batch = : 2.4902111303246146, J_total=2.6195740535301204, J_test=2.6361534327539524, J_diff=-0.016579379223832014
+training accuracy is, 0.6068
+test accuracy is, 0.5986
+ epoch, 84, alpha: 0.001, lmbda: 0.001, J_batch = : 2.473822465796953, J_total=2.606201628944017, J_test=2.6231146714398488, J_diff=-0.01691304249583192
+training accuracy is, 0.608
+test accuracy is, 0.5997
+ epoch, 85, alpha: 0.001, lmbda: 0.001, J_batch = : 2.457496215214398, J_total=2.592851312196475, J_test=2.6101010007764818, J_diff=-0.01724968858000686
+training accuracy is, 0.6092
+test accuracy is, 0.6013
+ epoch, 86, alpha: 0.001, lmbda: 0.001, J_batch = : 2.441238875233203, J_total=2.5795295068501147, J_test=2.59711862691439, J_diff=-0.017589120064275487
+training accuracy is, 0.6104
+test accuracy is, 0.6031
+ epoch, 87, alpha: 0.001, lmbda: 0.001, J_batch = : 2.425056563601447, J_total=2.566242327502322, J_test=2.5841734643173773, J_diff=-0.017931136815055204
+training accuracy is, 0.6116
+test accuracy is, 0.6052
+ epoch, 88, alpha: 0.001, lmbda: 0.001, J_batch = : 2.408955016131582, J_total=2.5529955908297226, J_test=2.571271127602433, J_diff=-0.01827553677271032
+training accuracy is, 0.6124
+test accuracy is, 0.6067
+ epoch, 89, alpha: 0.001, lmbda: 0.001, J_batch = : 2.3929395865445136, J_total=2.5397948085134097, J_test=2.558416925228208, J_diff=-0.01862211671479841
+training accuracy is, 0.6132
+test accuracy is, 0.6078
+ epoch, 90, alpha: 0.001, lmbda: 0.001, J_batch = : 2.377015249086757, J_total=2.5266451821787026, J_test=2.545615855167994, J_diff=-0.018970672989291337
+training accuracy is, 0.6148
+test accuracy is, 0.6091
+ epoch, 91, alpha: 0.001, lmbda: 0.001, J_batch = : 2.361186603764997, J_total=2.513551600436511, J_test=2.532872602656816, J_diff=-0.019321002220304972
+training accuracy is, 0.6156
+test accuracy is, 0.6106
+ epoch, 92, alpha: 0.001, lmbda: 0.001, J_batch = : 2.3454578839943534, J_total=2.5005186380625903, J_test=2.520191540051342, J_diff=-0.0196729019887516
+training accuracy is, 0.6168
+test accuracy is, 0.6121
+ epoch, 93, alpha: 0.001, lmbda: 0.001, J_batch = : 2.3298329664185387, J_total=2.487550557298829, J_test=2.5075767287883393, J_diff=-0.020026171489510247
+training accuracy is, 0.618
+test accuracy is, 0.6132
+ epoch, 94, alpha: 0.001, lmbda: 0.001, J_batch = : 2.3143153826325236, J_total=2.474651311209852, J_test=2.4950319233755622, J_diff=-0.02038061216571041
+training accuracy is, 0.6192
+test accuracy is, 0.6151
+ epoch, 95, alpha: 0.001, lmbda: 0.001, J_batch = : 2.2989083325209774, J_total=2.4618245489812614, J_test=2.4825605773005637, J_diff=-0.020736028319302324
+training accuracy is, 0.6208
+test accuracy is, 0.6165
+ epoch, 96, alpha: 0.001, lmbda: 0.001, J_batch = : 2.2836146989182073, J_total=2.4490736230047805, J_test=2.470165850700578, J_diff=-0.02109222769579766
+training accuracy is, 0.622
+test accuracy is, 0.6181
+ epoch, 97, alpha: 0.001, lmbda: 0.001, J_batch = : 2.2684370632965396, J_total=2.4364015975620474, J_test=2.457850619601901, J_diff=-0.02144902203985355
+training accuracy is, 0.6224
+test accuracy is, 0.6202
+ epoch, 98, alpha: 0.001, lmbda: 0.001, J_batch = : 2.253377722198862, J_total=2.423811258893852, J_test=2.4456174865113165, J_diff=-0.021806227617464646
+training accuracy is, 0.6232
+test accuracy is, 0.6218
+ epoch, 99, alpha: 0.001, lmbda: 0.001, J_batch = : 2.2384387041460556, J_total=2.4113051264255536, J_test=2.4334687921255336, J_diff=-0.022163665699979962
+training accuracy is, 0.624
+test accuracy is, 0.6237
+ epoch, 100, alpha: 0.001, lmbda: 0.001, J_batch = : 2.2236217867698906, J_total=2.398885464912153, J_test=2.4214066279172437, J_diff=-0.02252116300509055
+training accuracy is, 0.6264
+test accuracy is, 0.6247
+ epoch, 101, alpha: 0.001, lmbda: 0.001, J_batch = : 2.2089285139452, J_total=2.386554297267336, J_test=2.409432849357558, J_diff=-0.022878552090221937
+training accuracy is, 0.6272
+test accuracy is, 0.6263
+ epoch, 102, alpha: 0.001, lmbda: 0.001, J_batch = : 2.19436021272063, J_total=2.374313417848839, J_test=2.3975490895433107, J_diff=-0.023235671694471716
+training accuracy is, 0.6288
+test accuracy is, 0.6285
+ epoch, 103, alpha: 0.001, lmbda: 0.001, J_batch = : 2.1799180098738113, J_total=2.3621644059863773, J_test=2.385756773012621, J_diff=-0.023592367026243455
+training accuracy is, 0.6316
+test accuracy is, 0.6306
+ epoch, 104, alpha: 0.001, lmbda: 0.001, J_batch = : 2.1656028479434952, J_total=2.3501086395569164, J_test=2.374057129551777, J_diff=-0.023948489994860545
+training accuracy is, 0.6344
+test accuracy is, 0.6325
+ epoch, 105, alpha: 0.001, lmbda: 0.001, J_batch = : 2.1514155006173126, J_total=2.3381473084338023, J_test=2.362451207819598, J_diff=-0.024303899385795802
+training accuracy is, 0.6352
+test accuracy is, 0.6335
+ epoch, 106, alpha: 0.001, lmbda: 0.001, J_batch = : 2.1373565873787475, J_total=2.3262814276599393, J_test=2.350939888640312, J_diff=-0.02465846098037261
+training accuracy is, 0.6372
+test accuracy is, 0.6345
+ epoch, 107, alpha: 0.001, lmbda: 0.001, J_batch = : 2.1234265873402367, J_total=2.3145118502197253, J_test=2.339523897841748, J_diff=-0.025012047622022582
+training accuracy is, 0.6392
+test accuracy is, 0.6362
+ epoch, 108, alpha: 0.001, lmbda: 0.001, J_batch = : 2.1096258522107805, J_total=2.3028392793087487, J_test=2.328203818540943, J_diff=-0.025364539232194172
+training accuracy is, 0.642
+test accuracy is, 0.6375
+ epoch, 109, alpha: 0.001, lmbda: 0.001, J_batch = : 2.0959546183658486, J_total=2.2912642800235745, J_test=2.3169801028034396, J_diff=-0.02571582277986506
+training accuracy is, 0.6432
+test accuracy is, 0.6383
+ epoch, 110, alpha: 0.001, lmbda: 0.001, J_batch = : 2.0824130180046314, J_total=2.279787290415728, J_test=2.3058530826249384, J_diff=-0.026065792209210237
+training accuracy is, 0.6436
+test accuracy is, 0.641
+ epoch, 111, alpha: 0.001, lmbda: 0.001, J_batch = : 2.069001089394834, J_total=2.2684086318736942, J_test=2.294822980204081, J_diff=-0.026414348330386694
+training accuracy is, 0.6448
+test accuracy is, 0.6422
+ epoch, 112, alpha: 0.001, lmbda: 0.001, J_batch = : 2.055718786218252, J_total=2.2571285188142447, J_test=2.283889917492788, J_diff=-0.026761398678543102
+training accuracy is, 0.6452
+test accuracy is, 0.644
+ epoch, 113, alpha: 0.001, lmbda: 0.001, J_batch = : 2.0425659860413954, J_total=2.24594706767942, J_test=2.273053925025644, J_diff=-0.02710685734622409
+training accuracy is, 0.648
+test accuracy is, 0.6455
+ epoch, 114, alpha: 0.001, lmbda: 0.001, J_batch = : 2.0295424979445538, J_total=2.2348643052481676, J_test=2.2623149500422377, J_diff=-0.02745064479407011
+training accuracy is, 0.6484
+test accuracy is, 0.6467
+ epoch, 115, alpha: 0.001, lmbda: 0.001, J_batch = : 2.0166480693500706, J_total=2.223880176281876, J_test=2.2516728639263888, J_diff=-0.027792687644512704
+training accuracy is, 0.65
+test accuracy is, 0.6479
+ epoch, 116, alpha: 0.001, lmbda: 0.001, J_batch = : 2.0038823920963007, J_total=2.2129945505311044, J_test=2.241127468993849, J_diff=-0.028132918462744794
+training accuracy is, 0.6524
+test accuracy is, 0.6498
+ epoch, 117, alpha: 0.001, lmbda: 0.001, J_batch = : 1.9912451078079567, J_total=2.202207229136843, J_test=2.230678504665628, J_diff=-0.028471275528785256
+training accuracy is, 0.6544
+test accuracy is, 0.652
+ epoch, 118, alpha: 0.001, lmbda: 0.001, J_batch = : 1.9787358126164258, J_total=2.191517950463789, J_test=2.2203256530678552, J_diff=-0.028807702604066066
+training accuracy is, 0.6572
+test accuracy is, 0.6533
+ epoch, 119, alpha: 0.001, lmbda: 0.001, J_batch = : 1.9663540612853176, J_total=2.180926395405777, J_test=2.21006854410116, J_diff=-0.029142148695382897
+training accuracy is, 0.658
+test accuracy is, 0.6548
+ epoch, 120, alpha: 0.001, lmbda: 0.001, J_batch = : 1.9540993707970953, J_total=2.1704321922046534, J_test=2.19990676002338, J_diff=-0.029474567818726705
+training accuracy is, 0.6608
+test accuracy is, 0.6558
+ epoch, 121, alpha: 0.001, lmbda: 0.001, J_batch = : 1.941971223456321, J_total=2.160034920824039, J_test=2.189839839589015, J_diff=-0.02980491876497604
+training accuracy is, 0.6612
+test accuracy is, 0.6576
+ epoch, 122, alpha: 0.001, lmbda: 0.001, J_batch = : 1.9299690695638834, J_total=2.149734116918537, J_test=2.1798672817876508, J_diff=-0.03013316486911366
+training accuracy is, 0.6632
+test accuracy is, 0.66
+ epoch, 123, alpha: 0.001, lmbda: 0.001, J_batch = : 1.9180923297147867, J_total=2.1395292754374258, J_test=2.1699885492216606, J_diff=-0.030459273784234853
+training accuracy is, 0.6656
+test accuracy is, 0.6611
+ epoch, 124, alpha: 0.001, lmbda: 0.001, J_batch = : 1.906340396769618, J_total=2.129419853899743, J_test=2.160203071161104, J_diff=-0.03078321726136135
+training accuracy is, 0.6664
+test accuracy is, 0.6628
+ epoch, 125, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8947126375470047, J_total=2.119405275375248, J_test=2.150510246311031, J_diff=-0.031104970935782905
+training accuracy is, 0.6672
+test accuracy is, 0.6635
+ epoch, 126, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8832083942810778, J_total=2.109484931203019, J_test=2.140909445323479, J_diff=-0.03142451412046032
+training accuracy is, 0.6692
+test accuracy is, 0.6656
+ epoch, 127, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8718269858844705, J_total=2.0996581834766785, J_test=2.131400013083504, J_diff=-0.031741829606825256
+training accuracy is, 0.6712
+test accuracy is, 0.6676
+ epoch, 128, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8605677090536576, J_total=2.089924367322417, J_test=2.121981270795624, J_diff=-0.03205690347320722
+training accuracy is, 0.674
+test accuracy is, 0.6694
+ epoch, 129, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8494298392496202, J_total=2.0802827929932777, J_test=2.1126525178942526, J_diff=-0.032369724900974894
+training accuracy is, 0.6744
+test accuracy is, 0.671
+ epoch, 130, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8384126315829579, J_total=2.0707327478005793, J_test=2.1034130337989883, J_diff=-0.032680285998409
+training accuracy is, 0.6764
+test accuracy is, 0.6732
+ epoch, 131, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8275153216287203, J_total=2.061273497900952, J_test=2.0942620795332068, J_diff=-0.03298858163225482
+training accuracy is, 0.6776
+test accuracy is, 0.6752
+ epoch, 132, alpha: 0.001, lmbda: 0.001, J_batch = : 1.816737126192488, J_total=2.051904289955276, J_test=2.085198899222133, J_diff=-0.03329460926685668
+training accuracy is, 0.6784
+test accuracy is, 0.6768
+ epoch, 133, alpha: 0.001, lmbda: 0.001, J_batch = : 1.8060772440456214, J_total=2.042624352673839, J_test=2.0762227214845708, J_diff=-0.03359836881073175
+training accuracy is, 0.6808
+test accuracy is, 0.6795
+ epoch, 134, alpha: 0.001, lmbda: 0.001, J_batch = : 1.795534856644146, J_total=2.0334328982602936, J_test=2.06733276073072, J_diff=-0.033899862470426534
+training accuracy is, 0.6824
+test accuracy is, 0.6812
+ epoch, 135, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7851091288425802, J_total=2.024329123765478, J_test=2.058528218376936, J_diff=-0.03419909461145787
+training accuracy is, 0.6848
+test accuracy is, 0.6836
+ epoch, 136, alpha: 0.001, lmbda: 0.001, J_batch = : 1.774799209611056, J_total=2.015312212360811, J_test=2.0498082839869762, J_diff=-0.0344960716261653
+training accuracy is, 0.6856
+test accuracy is, 0.6851
+ epoch, 137, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7646042327614446, J_total=2.0063813345398613, J_test=2.0411721363481017, J_diff=-0.034790801808240346
+training accuracy is, 0.688
+test accuracy is, 0.6873
+ epoch, 138, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7545233176858712, J_total=1.9975356492556828, J_test=2.032618944489423, J_diff=-0.0350832952337401
+training accuracy is, 0.6904
+test accuracy is, 0.6894
+ epoch, 139, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7445555701089859, J_total=1.9887743050006415, J_test=2.0241478686490084, J_diff=-0.03537356364836697
+training accuracy is, 0.6924
+test accuracy is, 0.6904
+ epoch, 140, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7347000828536763, J_total=1.9800964408347235, J_test=2.015758061195515, J_diff=-0.035661620360791346
+training accuracy is, 0.6932
+test accuracy is, 0.6925
+ epoch, 141, alpha: 0.001, lmbda: 0.001, J_batch = : 1.724955936618535, J_total=1.9715011873676298, J_test=2.0074486675094354, J_diff=-0.0359474801418056
+training accuracy is, 0.6928
+test accuracy is, 0.6941
+ epoch, 142, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7153222007643483, J_total=1.9629876676993665, J_test=1.9992188268284545, J_diff=-0.03623115912908803
+training accuracy is, 0.6948
+test accuracy is, 0.6951
+ epoch, 143, alpha: 0.001, lmbda: 0.001, J_batch = : 1.7057979341060985, J_total=1.9545549983234702, J_test=1.991067673060834, J_diff=-0.03651267473736386
+training accuracy is, 0.6968
+test accuracy is, 0.6973
+ epoch, 144, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6963821857064938, J_total=1.946202289996497, J_test=1.9829943355702446, J_diff=-0.0367920455737476
+training accuracy is, 0.7008
+test accuracy is, 0.6995
+ epoch, 145, alpha: 0.001, lmbda: 0.001, J_batch = : 1.687073995666784, J_total=1.9379286485769038, J_test=1.9749979399349575, J_diff=-0.0370692913580537
+training accuracy is, 0.704
+test accuracy is, 0.7016
+ epoch, 146, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6778723959105823, J_total=1.9297331758359815, J_test=1.9670776086838404, J_diff=-0.03734443284785893
+training accuracy is, 0.7044
+test accuracy is, 0.7025
+ epoch, 147, alpha: 0.001, lmbda: 0.001, J_batch = : 1.668776410956557, J_total=1.9216149702430443, J_test=1.9592324620111585, J_diff=-0.03761749176811424
+training accuracy is, 0.7076
+test accuracy is, 0.7049
+ epoch, 148, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6597850586761418, J_total=1.9135731277266708, J_test=1.9514616184717568, J_diff=-0.037888490745086045
+training accuracy is, 0.71
+test accuracy is, 0.7056
+ epoch, 149, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6508973510328229, J_total=1.9056067424133678, J_test=1.9437641956577865, J_diff=-0.03815745324441866
+training accuracy is, 0.7112
+test accuracy is, 0.7069
+ epoch, 150, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6421122948000173, J_total=1.8977149073446686, J_test=1.9361393108577805, J_diff=-0.03842440351311183
+training accuracy is, 0.7128
+test accuracy is, 0.7083
+ epoch, 151, alpha: 0.001, lmbda: 0.001, J_batch = : 1.633428892255104, J_total=1.8898967151733586, J_test=1.92858608169855, J_diff=-0.038689366525191504
+training accuracy is, 0.714
+test accuracy is, 0.7092
+ epoch, 152, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6248461418477007, J_total=1.8821512588391682, J_test=1.9211036267700468, J_diff=-0.03895236793087853
+training accuracy is, 0.7156
+test accuracy is, 0.7106
+ epoch, 153, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6163630388408403, J_total=1.8744776322240886, J_test=1.9136910662331086, J_diff=-0.03921343400902
+training accuracy is, 0.7172
+test accuracy is, 0.7124
+ epoch, 154, alpha: 0.001, lmbda: 0.001, J_batch = : 1.6079785759242005, J_total=1.8668749307871702, J_test=1.9063475224097677, J_diff=-0.03947259162259753
+training accuracy is, 0.7192
+test accuracy is, 0.7138
+ epoch, 155, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5996917437990623, J_total=1.8593422521785652, J_test=1.899072120355644, J_diff=-0.0397298681770788
+training accuracy is, 0.7208
+test accuracy is, 0.7158
+ epoch, 156, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5915015317350663, J_total=1.851878696832396, J_test=1.8918639884138098, J_diff=-0.03998529158141384
+training accuracy is, 0.724
+test accuracy is, 0.7171
+ epoch, 157, alpha: 0.001, lmbda: 0.001, J_batch = : 1.583406928099256, J_total=1.8444833685379802, J_test=1.8847222587494394, J_diff=-0.04023889021145921
+training accuracy is, 0.7256
+test accuracy is, 0.719
+ epoch, 158, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5754069208581896, J_total=1.8371553749888856, J_test=1.8776460678645244, J_diff=-0.04049069287563878
+training accuracy is, 0.7256
+test accuracy is, 0.7201
+ epoch, 159, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5675004980541691, J_total=1.8298938283092923, J_test=1.8706345570919105, J_diff=-0.04074072878261825
+training accuracy is, 0.7284
+test accuracy is, 0.7212
+ epoch, 160, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5596866482568208, J_total=1.8226978455571579, J_test=1.863686873067973, J_diff=-0.040989027510815124
+training accuracy is, 0.73
+test accuracy is, 0.7225
+ epoch, 161, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5519643609914058, J_total=1.8155665492037498, J_test=1.8568021681832958, J_diff=-0.041235618979545974
+training accuracy is, 0.7316
+test accuracy is, 0.7236
+ epoch, 162, alpha: 0.001, lmbda: 0.001, J_batch = : 1.544332627145323, J_total=1.8084990675891703, J_test=1.8499796010108063, J_diff=-0.041480533421635934
+training accuracy is, 0.734
+test accuracy is, 0.7256
+ epoch, 163, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5367904393542815, J_total=1.8014945353536256, J_test=1.8432183367109254, J_diff=-0.041723801357299806
+training accuracy is, 0.7364
+test accuracy is, 0.7279
+ epoch, 164, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5293367923696313, J_total=1.794552093844252, J_test=1.8365175474134143, J_diff=-0.04196545356916226
+training accuracy is, 0.7376
+test accuracy is, 0.7294
+ epoch, 165, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5219706834083024, J_total=1.7876708914974846, J_test=1.8298764125757132, J_diff=-0.042205521078228614
+training accuracy is, 0.7384
+test accuracy is, 0.7309
+ epoch, 166, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5146911124867095, J_total=1.7808500841970187, J_test=1.8232941193177197, J_diff=-0.04244403512070094
+training accuracy is, 0.7404
+test accuracy is, 0.7326
+ epoch, 167, alpha: 0.001, lmbda: 0.001, J_batch = : 1.507497082739918, J_total=1.7740888356075772, J_test=1.8167698627330595, J_diff=-0.042681027125482274
+training accuracy is, 0.7432
+test accuracy is, 0.7347
+ epoch, 168, alpha: 0.001, lmbda: 0.001, J_batch = : 1.5003876007272436, J_total=1.767386317484774, J_test=1.810302846177045, J_diff=-0.04291652869227103
+training accuracy is, 0.7452
+test accuracy is, 0.7357
+ epoch, 169, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4933616767253486, J_total=1.7607417099615021, J_test=1.8038922815316345, J_diff=-0.04315057157013236
+training accuracy is, 0.7452
+test accuracy is, 0.7371
+ epoch, 170, alpha: 0.001, lmbda: 0.001, J_batch = : 1.486418325009791, J_total=1.7541542018113412, J_test=1.7975373894478077, J_diff=-0.043383187636466536
+training accuracy is, 0.7472
+test accuracy is, 0.7384
+ epoch, 171, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4795565641258364, J_total=1.7476229906895902, J_test=1.7912373995658728, J_diff=-0.04361440887628265
+training accuracy is, 0.7504
+test accuracy is, 0.7404
+ epoch, 172, alpha: 0.001, lmbda: 0.001, J_batch = : 1.472775417149261, J_total=1.7411472833525987, J_test=1.784991550714325, J_diff=-0.04384426736172631
+training accuracy is, 0.7528
+test accuracy is, 0.742
+ epoch, 173, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4660739119377342, J_total=1.7347262958561225, J_test=1.77879909108792, J_diff=-0.04407279523179741
+training accuracy is, 0.7556
+test accuracy is, 0.7437
+ epoch, 174, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4594510813732893, J_total=1.7283592537334922, J_test=1.7726592784057158, J_diff=-0.044300024672223604
+training accuracy is, 0.7572
+test accuracy is, 0.7455
+ epoch, 175, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4529059635962713, J_total=1.7220453921544194, J_test=1.7665713800498704, J_diff=-0.044525987895450925
+training accuracy is, 0.7576
+test accuracy is, 0.7468
+ epoch, 176, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4464376022310965, J_total=1.715783956065286, J_test=1.7605346731860207, J_diff=-0.04475071712073464
+training accuracy is, 0.7584
+test accuracy is, 0.7487
+ epoch, 177, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4400450466040584, J_total=1.7095742003117802, J_test=1.7545484448660966, J_diff=-0.04497424455431642
+training accuracy is, 0.7596
+test accuracy is, 0.75
+ epoch, 178, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4337273519533664, J_total=1.703415389744752, J_test=1.7486119921144407, J_diff=-0.04519660236968881
+training accuracy is, 0.7608
+test accuracy is, 0.7516
+ epoch, 179, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4274835796315395, J_total=1.6973067993101583, J_test=1.742724621998095, J_diff=-0.045417822687936704
+training accuracy is, 0.7632
+test accuracy is, 0.7536
+ epoch, 180, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4213127973002502, J_total=1.6912477141239477, J_test=1.7368856516821318, J_diff=-0.04563793755818413
+training accuracy is, 0.764
+test accuracy is, 0.7547
+ epoch, 181, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4152140791176484, J_total=1.6852374295327341, J_test=1.73109440847088, J_diff=-0.045856978938145776
+training accuracy is, 0.7648
+test accuracy is, 0.7558
+ epoch, 182, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4091865059182087, J_total=1.67927525116107, J_test=1.7253502298358852, J_diff=-0.04607497867481514
+training accuracy is, 0.7652
+test accuracy is, 0.7566
+ epoch, 183, alpha: 0.001, lmbda: 0.001, J_batch = : 1.4032291653850848, J_total=1.6733604949461123, J_test=1.7196524634314192, J_diff=-0.04629196848530692
+training accuracy is, 0.7672
+test accuracy is, 0.7583
+ epoch, 184, alpha: 0.001, lmbda: 0.001, J_batch = : 1.397341152214974, J_total=1.6674924871604389, J_test=1.7140004670983275, J_diff=-0.04650797993788869
+training accuracy is, 0.7688
+test accuracy is, 0.7594
+ epoch, 185, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3915215682754658, J_total=1.6616705644237484, J_test=1.7083936088569747, J_diff=-0.04672304443322628
+training accuracy is, 0.7688
+test accuracy is, 0.7611
+ epoch, 186, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3857695227548634, J_total=1.6558940737041292, J_test=1.7028312668900032, J_diff=-0.04693719318587397
+training accuracy is, 0.7696
+test accuracy is, 0.7626
+ epoch, 187, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3800841323044513, J_total=1.650162372309555, J_test=1.69731282951561, J_diff=-0.04715045720605482
+training accuracy is, 0.772
+test accuracy is, 0.7633
+ epoch, 188, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3744645211732103, J_total=1.6444748278702315, J_test=1.6918376951519838, J_diff=-0.04736286728175232
+training accuracy is, 0.7744
+test accuracy is, 0.7646
+ epoch, 189, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3689098213349644, J_total=1.638830818312369, J_test=1.6864052722735283, J_diff=-0.047574453961159335
+training accuracy is, 0.7772
+test accuracy is, 0.7658
+ epoch, 190, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3634191726079725, J_total=1.6332297318239462, J_test=1.6810149793594553, J_diff=-0.04778524753550917
+training accuracy is, 0.778
+test accuracy is, 0.7673
+ epoch, 191, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3579917227669864, J_total=1.6276709668129605, J_test=1.6756662448352886, J_diff=-0.04799527802232806
+training accuracy is, 0.7788
+test accuracy is, 0.7684
+ epoch, 192, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3526266276477976, J_total=1.6221539318586622, J_test=1.6703585070078095, J_diff=-0.04820457514914733
+training accuracy is, 0.7796
+test accuracy is, 0.7696
+ epoch, 193, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3473230512443295, J_total=1.6166780456562158, J_test=1.6650912139939102, J_diff=-0.04841316833769449
+training accuracy is, 0.7804
+test accuracy is, 0.7704
+ epoch, 194, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3420801657983206, J_total=1.6112427369552107, J_test=1.659863823643815, J_diff=-0.04862108668860432
+training accuracy is, 0.7816
+test accuracy is, 0.7716
+ epoch, 195, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3368971518816817, J_total=1.6058474444924193, J_test=1.6546758034590883, J_diff=-0.04882835896666893
+training accuracy is, 0.7828
+test accuracy is, 0.7723
+ epoch, 196, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3317731984716055, J_total=1.6004916169191614, J_test=1.6495266305058274, J_diff=-0.049035013586665954
+training accuracy is, 0.784
+test accuracy is, 0.7735
+ epoch, 197, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3267075030185282, J_total=1.59517471272363, J_test=1.6444157913234014, J_diff=-0.04924107859977145
+training accuracy is, 0.7856
+test accuracy is, 0.7747
+ epoch, 198, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3216992715070506, J_total=1.5898962001484929, J_test=1.6393427818290882, J_diff=-0.04944658168059535
+training accuracy is, 0.7876
+test accuracy is, 0.7768
+ epoch, 199, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3167477185099452, J_total=1.5846555571040726, J_test=1.634307107218923, J_diff=-0.04965155011485045
+training accuracy is, 0.7892
+test accuracy is, 0.778
+ epoch, 200, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3118520672353722, J_total=1.5794522710773962, J_test=1.629308281865064, J_diff=-0.04985601078766777
+training accuracy is, 0.79
+test accuracy is, 0.7787
+ epoch, 201, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3070115495674475, J_total=1.5742858390373746, J_test=1.624345829209962, J_diff=-0.05005999017258733
+training accuracy is, 0.7916
+test accuracy is, 0.7797
+ epoch, 202, alpha: 0.001, lmbda: 0.001, J_batch = : 1.3022254061003204, J_total=1.5691557673363656, J_test=1.619419281657584, J_diff=-0.05026351432121845
+training accuracy is, 0.7928
+test accuracy is, 0.7803
+ epoch, 203, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2974928861658972, J_total=1.5640615716083657, J_test=1.6145281804619593, J_diff=-0.050466608853593664
+training accuracy is, 0.7956
+test accuracy is, 0.7824
+ epoch, 204, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2928132478553966, J_total=1.5590027766640537, J_test=1.609672075613265, J_diff=-0.05066929894921124
+training accuracy is, 0.7964
+test accuracy is, 0.783
+ epoch, 205, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2881857580348877, J_total=1.5539789163829016, J_test=1.6048505257216845, J_diff=-0.050871609338782875
+training accuracy is, 0.7976
+test accuracy is, 0.7837
+ epoch, 206, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2836096923549931, J_total=1.5489895336025676, J_test=1.6000630978992423, J_diff=-0.051073564296674645
+training accuracy is, 0.7992
+test accuracy is, 0.7848
+ epoch, 207, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2790843352549308, J_total=1.5440341800057626, J_test=1.5953093676398216, J_diff=-0.051275187634058916
+training accuracy is, 0.7996
+test accuracy is, 0.786
+ epoch, 208, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2746089799610756, J_total=1.5391124160047887, J_test=1.5905889186975415, J_diff=-0.051476502692752835
+training accuracy is, 0.8016
+test accuracy is, 0.7872
+ epoch, 209, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2701829284802253, J_total=1.534223810623928, J_test=1.5859013429636906, J_diff=-0.051677532339762466
+training accuracy is, 0.802
+test accuracy is, 0.7881
+ epoch, 210, alpha: 0.001, lmbda: 0.001, J_batch = : 1.265805491587754, J_total=1.5293679413798678, J_test=1.5812462403423728, J_diff=-0.051878298962505065
+training accuracy is, 0.8032
+test accuracy is, 0.7895
+ epoch, 211, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2614759888108373, J_total=1.52454439416033, J_test=1.5766232186250502, J_diff=-0.05207882446472012
+training accuracy is, 0.8044
+test accuracy is, 0.7903
+ epoch, 212, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2571937484069429, J_total=1.5197527631010792, J_test=1.5720318933641204, J_diff=-0.05227913026304121
+training accuracy is, 0.8052
+test accuracy is, 0.7917
+ epoch, 213, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2529581073377654, J_total=1.5149926504614646, J_test=1.5674718877456946, J_diff=-0.052479237284229985
+training accuracy is, 0.8068
+test accuracy is, 0.7925
+ epoch, 214, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2487684112387958, J_total=1.510263666498668, J_test=1.5629428324617236, J_diff=-0.05267916596305566
+training accuracy is, 0.8072
+test accuracy is, 0.7932
+ epoch, 215, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2446240143847147, J_total=1.5055654293408032, J_test=1.558444365581602, J_diff=-0.05287893624079887
+training accuracy is, 0.8084
+test accuracy is, 0.7943
+ epoch, 216, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2405242796507865, J_total=1.5008975648590255, J_test=1.5539761324233992, J_diff=-0.05307856756437368
+training accuracy is, 0.8096
+test accuracy is, 0.7954
+ epoch, 217, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2364685784704488, J_total=1.496259706538796, J_test=1.5495377854248396, J_diff=-0.053278078886043634
+training accuracy is, 0.8112
+test accuracy is, 0.796
+ epoch, 218, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2324562907892687, J_total=1.4916514953504503, J_test=1.5451289840141638, J_diff=-0.05347748866371349
+training accuracy is, 0.8128
+test accuracy is, 0.7967
+ epoch, 219, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2284868050154516, J_total=1.487072579619208, J_test=1.5407493944809894, J_diff=-0.05367681486178144
+training accuracy is, 0.8148
+test accuracy is, 0.7982
+ epoch, 220, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2245595179670858, J_total=1.4825226148947666, J_test=1.5363986898472943, J_diff=-0.053876074952527775
+training accuracy is, 0.816
+test accuracy is, 0.799
+ epoch, 221, alpha: 0.001, lmbda: 0.001, J_batch = : 1.220673834816282, J_total=1.4780012638206084, J_test=1.5320765497386282, J_diff=-0.0540752859180198
+training accuracy is, 0.8168
+test accuracy is, 0.7996
+ epoch, 222, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2168291690303972, J_total=1.4735081960031582, J_test=1.5277826602556699, J_diff=-0.0542744642525117
+training accuracy is, 0.8176
+test accuracy is, 0.8003
+ epoch, 223, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2130249423105108, J_total=1.4690430878809135, J_test=1.5235167138462293, J_diff=-0.0544736259653158
+training accuracy is, 0.8188
+test accuracy is, 0.8013
+ epoch, 224, alpha: 0.001, lmbda: 0.001, J_batch = : 1.209260584527305, J_total=1.4646056225936739, J_test=1.5192784091778013, J_diff=-0.05467278658412744
+training accuracy is, 0.82
+test accuracy is, 0.802
+ epoch, 225, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2055355336545388, J_total=1.4601954898519904, J_test=1.5150674510107576, J_diff=-0.054871961158767135
+training accuracy is, 0.8208
+test accuracy is, 0.8027
+ epoch, 226, alpha: 0.001, lmbda: 0.001, J_batch = : 1.2018492357002495, J_total=1.455812385806944, J_test=1.5108835500722826, J_diff=-0.055071164265338535
+training accuracy is, 0.822
+test accuracy is, 0.8034
+ epoch, 227, alpha: 0.001, lmbda: 0.001, J_batch = : 1.198201144635861, J_total=1.4514560129203782, J_test=1.5067264229311323, J_diff=-0.05527041001075417
+training accuracy is, 0.8232
+test accuracy is, 0.8043
+ epoch, 228, alpha: 0.001, lmbda: 0.001, J_batch = : 1.19459072232334, J_total=1.4471260798356786, J_test=1.502595791873306, J_diff=-0.055469712037627295
+training accuracy is, 0.8244
+test accuracy is, 0.8047
+ epoch, 229, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1910174384405532, J_total=1.4428223012492154, J_test=1.4984913847787047, J_diff=-0.055669083529489294
+training accuracy is, 0.8248
+test accuracy is, 0.8055
+ epoch, 230, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1874807704049744, J_total=1.4385443977825412, J_test=1.4944129349988606, J_diff=-0.05586853721631946
+training accuracy is, 0.8248
+test accuracy is, 0.806
+ epoch, 231, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1839802032958808, J_total=1.43429209585544, J_test=1.4903601812358012, J_diff=-0.05606808538036123
+training accuracy is, 0.826
+test accuracy is, 0.8065
+ epoch, 232, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1805152297751749, J_total=1.430065127559924, J_test=1.4863328674221261, J_diff=-0.056267739862202015
+training accuracy is, 0.826
+test accuracy is, 0.807
+ epoch, 233, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1770853500069764, J_total=1.4258632305352539, J_test=1.4823307426023458, J_diff=-0.056467512067091885
+training accuracy is, 0.8268
+test accuracy is, 0.8074
+ epoch, 234, alpha: 0.001, lmbda: 0.001, J_batch = : 1.173690071576099, J_total=1.4216861478440752, J_test=1.47835356081556, J_diff=-0.05666741297148481
+training accuracy is, 0.828
+test accuracy is, 0.8085
+ epoch, 235, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1703289094055478, J_total=1.417533627849743, J_test=1.4744010809795132, J_diff=-0.05686745312977015
+training accuracy is, 0.8284
+test accuracy is, 0.8096
+ epoch, 236, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1670013856731587, J_total=1.4134054240949057, J_test=1.4704730667760952, J_diff=-0.05706764268118958
+training accuracy is, 0.8288
+test accuracy is, 0.8101
+ epoch, 237, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1637070297274916, J_total=1.409301295181421, J_test=1.4665692865383226, J_diff=-0.05726799135690164
+training accuracy is, 0.8296
+test accuracy is, 0.8109
+ epoch, 238, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1604453780030948, J_total=1.4052210046516678, J_test=1.4626895131388489, J_diff=-0.0574685084871811
+training accuracy is, 0.8312
+test accuracy is, 0.8116
+ epoch, 239, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1572159739352423, J_total=1.4011643208713067, J_test=1.4588335238800498, J_diff=-0.05766920300874312
+training accuracy is, 0.832
+test accuracy is, 0.8121
+ epoch, 240, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1540183678742557, J_total=1.3971310169135542, J_test=1.4550011003857095, J_diff=-0.057870083472155276
+training accuracy is, 0.8332
+test accuracy is, 0.813
+ epoch, 241, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1508521169995034, J_total=1.3931208704450146, J_test=1.451192028494349, J_diff=-0.05807115804933427
+training accuracy is, 0.8352
+test accuracy is, 0.8139
+ epoch, 242, alpha: 0.001, lmbda: 0.001, J_batch = : 1.147716785233173, J_total=1.3891336636131182, J_test=1.44740609815422, J_diff=-0.05827243454110187
+training accuracy is, 0.836
+test accuracy is, 0.8145
+ epoch, 243, alpha: 0.001, lmbda: 0.001, J_batch = : 1.144611943153909, J_total=1.385169182935208, J_test=1.4436431033199986, J_diff=-0.0584739203847906
+training accuracy is, 0.8368
+test accuracy is, 0.8149
+ epoch, 244, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1415371679103945, J_total=1.3812272191893151, J_test=1.439902841851192, J_diff=-0.05867562266187698
+training accuracy is, 0.8368
+test accuracy is, 0.8154
+ epoch, 245, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1384920431349719, J_total=1.377307567306656, J_test=1.436185115412284, J_diff=-0.058877548105628064
+training accuracy is, 0.8368
+test accuracy is, 0.8161
+ epoch, 246, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1354761588573596, J_total=1.3734100262658775, J_test=1.4324897293746357, J_diff=-0.05907970310875821
+training accuracy is, 0.8372
+test accuracy is, 0.8165
+ epoch, 247, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1324891114185527, J_total=1.3695343989890885, J_test=1.4288164927201503, J_diff=-0.05928209373106186
+training accuracy is, 0.8372
+test accuracy is, 0.8173
+ epoch, 248, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1295305033849707, J_total=1.3656804922396883, J_test=1.4251652179467194, J_diff=-0.059484725707031005
+training accuracy is, 0.8372
+test accuracy is, 0.8181
+ epoch, 249, alpha: 0.001, lmbda: 0.001, J_batch = : 1.126599943462911, J_total=1.36184811652202, J_test=1.4215357209754553, J_diff=-0.05968760445343535
+training accuracy is, 0.8376
+test accuracy is, 0.8195
+ epoch, 250, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1236970464133766, J_total=1.3580370859828588, J_test=1.4179278210597126, J_diff=-0.05989073507685383
+training accuracy is, 0.8392
+test accuracy is, 0.821
+ epoch, 251, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1208214329673252, J_total=1.3542472183147602, J_test=1.4143413406959096, J_diff=-0.060094122381149306
+training accuracy is, 0.8396
+test accuracy is, 0.8218
+ epoch, 252, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1179727297413986, J_total=1.3504783346612608, J_test=1.4107761055361419, J_diff=-0.060297770874881085
+training accuracy is, 0.8408
+test accuracy is, 0.8222
+ epoch, 253, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1151505691541717, J_total=1.3467302595239543, J_test=1.407231944302594, J_diff=-0.06050168477863971
+training accuracy is, 0.8412
+test accuracy is, 0.8232
+ epoch, 254, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1123545893429783, J_total=1.3430028206714384, J_test=1.40370868870374, J_diff=-0.0607058680323016
+training accuracy is, 0.8412
+test accuracy is, 0.8233
+ epoch, 255, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1095844340813374, J_total=1.3392958490501412, J_test=1.4002061733523308, J_diff=-0.06091032430218957
+training accuracy is, 0.8412
+test accuracy is, 0.8237
+ epoch, 256, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1068397526970335, J_total=1.335609178697014, J_test=1.3967242356851661, J_diff=-0.06111505698815223
+training accuracy is, 0.8424
+test accuracy is, 0.8241
+ epoch, 257, alpha: 0.001, lmbda: 0.001, J_batch = : 1.104120199990875, J_total=1.3319426466541067, J_test=1.3932627158846262, J_diff=-0.06132006923051958
+training accuracy is, 0.842
+test accuracy is, 0.825
+ epoch, 258, alpha: 0.001, lmbda: 0.001, J_batch = : 1.1014254361561642, J_total=1.3282960928849976, J_test=1.3898214568019758, J_diff=-0.06152536391697816
+training accuracy is, 0.8428
+test accuracy is, 0.8255
+ epoch, 259, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0987551266989075, J_total=1.3246693601930921, J_test=1.3864003038824064, J_diff=-0.06173094368931431
+training accuracy is, 0.8428
+test accuracy is, 0.826
+ epoch, 260, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0961089423587915, J_total=1.3210622941417622, J_test=1.3829991050918187, J_diff=-0.06193681095005643
+training accuracy is, 0.8432
+test accuracy is, 0.8266
+ epoch, 261, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0934865590309446, J_total=1.3174747429763303, J_test=1.3796177108453263, J_diff=-0.06214296786899598
+training accuracy is, 0.8444
+test accuracy is, 0.827
+ epoch, 262, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0908876576885063, J_total=1.3139065575478721, J_test=1.3762559739374605, J_diff=-0.06234941638958835
+training accuracy is, 0.8448
+test accuracy is, 0.8279
+ epoch, 263, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0883119243060213, J_total=1.3103575912388348, J_test=1.3729137494740649, J_diff=-0.06255615823523009
+training accuracy is, 0.8456
+test accuracy is, 0.8284
+ epoch, 264, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0857590497836762, J_total=1.3068276998904442, J_test=1.3695908948058626, J_diff=-0.06276319491541837
+training accuracy is, 0.8456
+test accuracy is, 0.8288
+ epoch, 265, alpha: 0.001, lmbda: 0.001, J_batch = : 1.083228729872379, J_total=1.3033167417318918, J_test=1.3662872694636705, J_diff=-0.06297052773177869
+training accuracy is, 0.8468
+test accuracy is, 0.8288
+ epoch, 266, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0807206650997154, J_total=1.2998245773112795, J_test=1.3630027350952492, J_diff=-0.06317815778396962
+training accuracy is, 0.8468
+test accuracy is, 0.8292
+ epoch, 267, alpha: 0.001, lmbda: 0.001, J_batch = : 1.078234560696768, J_total=1.2963510694282994, J_test=1.3597371554037636, J_diff=-0.06338608597546425
+training accuracy is, 0.8472
+test accuracy is, 0.8295
+ epoch, 268, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0757701265258206, J_total=1.2928960830686325, J_test=1.3564903960878332, J_diff=-0.06359431301920071
+training accuracy is, 0.8472
+test accuracy is, 0.8301
+ epoch, 269, alpha: 0.001, lmbda: 0.001, J_batch = : 1.073327077008946, J_total=1.2894594853400436, J_test=1.3532623247831552, J_diff=-0.0638028394431116
+training accuracy is, 0.8476
+test accuracy is, 0.8306
+ epoch, 270, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0709051310574857, J_total=1.2860411454101444, J_test=1.3500528110056698, J_diff=-0.0640116655955254
+training accuracy is, 0.8476
+test accuracy is, 0.8309
+ epoch, 271, alpha: 0.001, lmbda: 0.001, J_batch = : 1.068504012002421, J_total=1.2826409344458103, J_test=1.3468617260962525, J_diff=-0.06422079165044225
+training accuracy is, 0.8476
+test accuracy is, 0.8314
+ epoch, 272, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0661234475256418, J_total=1.2792587255542176, J_test=1.3436889431669112, J_diff=-0.06443021761269363
+training accuracy is, 0.8476
+test accuracy is, 0.8319
+ epoch, 273, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0637631695921068, J_total=1.275894393725484, J_test=1.340534337048454, J_diff=-0.06463994332296985
+training accuracy is, 0.8484
+test accuracy is, 0.8321
+ epoch, 274, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0614229143829015, J_total=1.2725478157768786, J_test=1.3373977842396183, J_diff=-0.06484996846273972
+training accuracy is, 0.8488
+test accuracy is, 0.8322
+ epoch, 275, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0591024222291883, J_total=1.2692188702985876, J_test=1.3342791628576274, J_diff=-0.06506029255903978
+training accuracy is, 0.8496
+test accuracy is, 0.8326
+ epoch, 276, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0568014375470445, J_total=1.2659074376009956, J_test=1.3311783525901513, J_diff=-0.06527091498915571
+training accuracy is, 0.8504
+test accuracy is, 0.8335
+ epoch, 277, alpha: 0.001, lmbda: 0.001, J_batch = : 1.054519708773192, J_total=1.262613399663466, J_test=1.3280952346486536, J_diff=-0.06548183498518756
+training accuracy is, 0.8512
+test accuracy is, 0.834
+ epoch, 278, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0522569883016057, J_total=1.259336640084592, J_test=1.3250296917230917, J_diff=-0.0656930516384997
+training accuracy is, 0.8512
+test accuracy is, 0.834
+ epoch, 279, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0500130324210055, J_total=1.2560770440338853, J_test=1.3219816079379518, J_diff=-0.06590456390406652
+training accuracy is, 0.8516
+test accuracy is, 0.8339
+ epoch, 280, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0477876012532152, J_total=1.252834498204885, J_test=1.3189508688095881, J_diff=-0.06611637060470321
+training accuracy is, 0.8512
+test accuracy is, 0.8348
+ epoch, 281, alpha: 0.001, lmbda: 0.001, J_batch = : 1.045580458692395, J_total=1.2496088907696499, J_test=1.3159373612048504, J_diff=-0.06632847043520051
+training accuracy is, 0.8516
+test accuracy is, 0.8353
+ epoch, 282, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0433913723451294, J_total=1.2464001113346126, J_test=1.3129409733009634, J_diff=-0.06654086196635078
+training accuracy is, 0.8528
+test accuracy is, 0.8357
+ epoch, 283, alpha: 0.001, lmbda: 0.001, J_batch = : 1.041220113471374, J_total=1.2432080508977679, J_test=1.3099615945466423, J_diff=-0.06675354364887442
+training accuracy is, 0.8532
+test accuracy is, 0.8361
+ epoch, 284, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0390664569262484, J_total=1.2400326018071643, J_test=1.306999115624417, J_diff=-0.0669665138172526
+training accuracy is, 0.8536
+test accuracy is, 0.8362
+ epoch, 285, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0369301811026648, J_total=1.2368736577206751, J_test=1.304053428414138, J_diff=-0.06717977069346293
+training accuracy is, 0.854
+test accuracy is, 0.8364
+ epoch, 286, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0348110678747948, J_total=1.2337311135670208, J_test=1.3011244259576407, J_diff=-0.06739331239061985
+training accuracy is, 0.8552
+test accuracy is, 0.8367
+ epoch, 287, alpha: 0.001, lmbda: 0.001, J_batch = : 1.032708902542359, J_total=1.2306048655080115, J_test=1.2982120024245456, J_diff=-0.06760713691653408
+training accuracy is, 0.8556
+test accuracy is, 0.8373
+ epoch, 288, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0306234737757278, J_total=1.2274948109019925, J_test=1.2953160530791665, J_diff=-0.067821242177174
+training accuracy is, 0.8564
+test accuracy is, 0.8379
+ epoch, 289, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0285545735618398, J_total=1.2244008482684514, J_test=1.292436474248505, J_diff=-0.06803562598005364
+training accuracy is, 0.8564
+test accuracy is, 0.8382
+ epoch, 290, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0265019971509048, J_total=1.2213228772537768, J_test=1.2895731632913034, J_diff=-0.0682502860375267
+training accuracy is, 0.8568
+test accuracy is, 0.8388
+ epoch, 291, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0244655430039136, J_total=1.218260798598126, J_test=1.2867260185681377, J_diff=-0.06846521997001176
+training accuracy is, 0.8568
+test accuracy is, 0.8394
+ epoch, 292, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0224450127409186, J_total=1.2152145141033854, J_test=1.2838949394125214, J_diff=-0.06868042530913598
+training accuracy is, 0.8572
+test accuracy is, 0.8398
+ epoch, 293, alpha: 0.001, lmbda: 0.001, J_batch = : 1.020440211090091, J_total=1.2121839266021979, J_test=1.281079826102999, J_diff=-0.0688958995008011
+training accuracy is, 0.8584
+test accuracy is, 0.8401
+ epoch, 294, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0184509458375426, J_total=1.209168939928023, J_test=1.2782805798362047, J_diff=-0.0691116399081817
+training accuracy is, 0.8588
+test accuracy is, 0.8406
+ epoch, 295, alpha: 0.001, lmbda: 0.001, J_batch = : 1.016477027777902, J_total=1.2061694588862133, J_test=1.275497102700865, J_diff=-0.06932764381465173
+training accuracy is, 0.86
+test accuracy is, 0.841
+ epoch, 296, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0145182706656388, J_total=1.2031853892260773, J_test=1.2727292976527182, J_diff=-0.06954390842664093
+training accuracy is, 0.86
+test accuracy is, 0.8412
+ epoch, 297, alpha: 0.001, lmbda: 0.001, J_batch = : 1.012574491167121, J_total=1.2002166376139038, J_test=1.2699770684903329, J_diff=-0.06976043087642902
+training accuracy is, 0.8612
+test accuracy is, 0.8414
+ epoch, 298, alpha: 0.001, lmbda: 0.001, J_batch = : 1.010645508813406, J_total=1.197263111606924, J_test=1.267240319831797, J_diff=-0.06997720822487308
+training accuracy is, 0.862
+test accuracy is, 0.8419
+ epoch, 299, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0087311459537467, J_total=1.194324719628188, J_test=1.2645189570922626, J_diff=-0.0701942374640745
+training accuracy is, 0.8624
+test accuracy is, 0.8424
+ epoch, 300, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0068312277098097, J_total=1.1914013709423281, J_test=1.2618128864623153, J_diff=-0.07041151551998714
+training accuracy is, 0.8632
+test accuracy is, 0.8424
+ epoch, 301, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0049455819305946, J_total=1.1884929756321894, J_test=1.259122014887155, J_diff=-0.07062903925496555
+training accuracy is, 0.8632
+test accuracy is, 0.8428
+ epoch, 302, alpha: 0.001, lmbda: 0.001, J_batch = : 1.0030740391480435, J_total=1.185599444576301, J_test=1.2564462500465579, J_diff=-0.0708468054702569
+training accuracy is, 0.8636
+test accuracy is, 0.8434
+ epoch, 303, alpha: 0.001, lmbda: 0.001, J_batch = : 1.001216432533339, J_total=1.1827206894271676, J_test=1.253785500335611, J_diff=-0.07106481090844352
+training accuracy is, 0.8644
+test accuracy is, 0.8437
+ epoch, 304, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9993725978538676, J_total=1.179856622590355, J_test=1.251139674846179, J_diff=-0.07128305225582388
+training accuracy is, 0.8644
+test accuracy is, 0.844
+ epoch, 305, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9975423734308578, J_total=1.1770071572043497, J_test=1.2485086833491041, J_diff=-0.07150152614475447
+training accuracy is, 0.8644
+test accuracy is, 0.8442
+ epoch, 306, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9957256000976685, J_total=1.1741722071211724, J_test=1.2458924362771018, J_diff=-0.07172022915592935
+training accuracy is, 0.8648
+test accuracy is, 0.8446
+ epoch, 307, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9939221211587288, J_total=1.1713516868877192, J_test=1.2432908447083402, J_diff=-0.07193915782062099
+training accuracy is, 0.8648
+test accuracy is, 0.8449
+ epoch, 308, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9921317823491131, J_total=1.168545511727811, J_test=1.2407038203506837, J_diff=-0.07215830862287276
+training accuracy is, 0.8652
+test accuracy is, 0.8451
+ epoch, 309, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9903544317947507, J_total=1.1657535975249322, J_test=1.2381312755265768, J_diff=-0.07237767800164452
+training accuracy is, 0.866
+test accuracy is, 0.8457
+ epoch, 310, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9885899199732524, J_total=1.1629758608056375, J_test=1.2355731231585518, J_diff=-0.0725972623529143
+training accuracy is, 0.8656
+test accuracy is, 0.8456
+ epoch, 311, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9868380996753521, J_total=1.1602122187236013, J_test=1.2330292767553421, J_diff=-0.07281705803174088
+training accuracy is, 0.866
+test accuracy is, 0.846
+ epoch, 312, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9850988259669563, J_total=1.1574625890442989, J_test=1.2304996503985794, J_diff=-0.07303706135428056
+training accuracy is, 0.8664
+test accuracy is, 0.8463
+ epoch, 313, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9833719561517807, J_total=1.1547268901302925, J_test=1.2279841587300597, J_diff=-0.07325726859976722
+training accuracy is, 0.8676
+test accuracy is, 0.8468
+ epoch, 314, alpha: 0.001, lmbda: 0.001, J_batch = : 0.981657349734584, J_total=1.1520050409271065, J_test=1.2254827169395606, J_diff=-0.07347767601245403
+training accuracy is, 0.868
+test accuracy is, 0.8469
+ epoch, 315, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9799548683849731, J_total=1.1492969609496726, J_test=1.2229952407531834, J_diff=-0.07369827980351085
+training accuracy is, 0.868
+test accuracy is, 0.8471
+ epoch, 316, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9782643759017837, J_total=1.1466025702693265, J_test=1.2205216464222213, J_diff=-0.07391907615289472
+training accuracy is, 0.868
+test accuracy is, 0.8478
+ epoch, 317, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9765857381780215, J_total=1.1439217895013372, J_test=1.2180618507125107, J_diff=-0.07414006121117356
+training accuracy is, 0.8692
+test accuracy is, 0.8482
+ epoch, 318, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9749188231663577, J_total=1.1412545397929532, J_test=1.2156157708942796, J_diff=-0.07436123110132642
+training accuracy is, 0.8692
+test accuracy is, 0.8484
+ epoch, 319, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9732635008451713, J_total=1.1386007428119478, J_test=1.2131833247324435, J_diff=-0.07458258192049572
+training accuracy is, 0.8692
+test accuracy is, 0.8487
+ epoch, 320, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9716196431851286, J_total=1.1359603207356428, J_test=1.2107644304773617, J_diff=-0.07480410974171892
+training accuracy is, 0.8692
+test accuracy is, 0.8488
+ epoch, 321, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9699871241162943, J_total=1.1333331962404025, J_test=1.2083590068560226, J_diff=-0.07502581061562008
+training accuracy is, 0.87
+test accuracy is, 0.8491
+ epoch, 322, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9683658194957656, J_total=1.1307192924915737, J_test=1.2059669730636442, J_diff=-0.07524768057207054
+training accuracy is, 0.87
+test accuracy is, 0.8491
+ epoch, 323, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9667556070758162, J_total=1.1281185331338575, J_test=1.2035882487556797, J_diff=-0.07546971562182225
+training accuracy is, 0.87
+test accuracy is, 0.8495
+ epoch, 324, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9651563664725552, J_total=1.1255308422821055, J_test=1.2012227540402087, J_diff=-0.07569191175810319
+training accuracy is, 0.8704
+test accuracy is, 0.8497
+ epoch, 325, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9635679791350769, J_total=1.1229561445125118, J_test=1.1988704094707014, J_diff=-0.07591426495818965
+training accuracy is, 0.8708
+test accuracy is, 0.8496
+ epoch, 326, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9619903283151074, J_total=1.1203943648541983, J_test=1.1965311360391435, J_diff=-0.07613677118494522
+training accuracy is, 0.8712
+test accuracy is, 0.8497
+ epoch, 327, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9604232990371375, J_total=1.1178454287811712, J_test=1.1942048551695048, J_diff=-0.0763594263883336
+training accuracy is, 0.8712
+test accuracy is, 0.8501
+ epoch, 328, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9588667780690243, J_total=1.1153092622046406, J_test=1.1918914887115393, J_diff=-0.07658222650689872
+training accuracy is, 0.8712
+test accuracy is, 0.8506
+ epoch, 329, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9573206538930702, J_total=1.112785791465684, J_test=1.1895909589349063, J_diff=-0.07680516746922228
+training accuracy is, 0.8716
+test accuracy is, 0.851
+ epoch, 330, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9557848166775613, J_total=1.1102749433282442, J_test=1.1873031885235943, J_diff=-0.07702824519535012
+training accuracy is, 0.8716
+test accuracy is, 0.8512
+ epoch, 331, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9542591582487621, J_total=1.107776644972449, J_test=1.1850281005706405, J_diff=-0.07725145559819135
+training accuracy is, 0.8728
+test accuracy is, 0.8516
+ epoch, 332, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9527435720633548, J_total=1.1052908239882366, J_test=1.1827656185731326, J_diff=-0.07747479458489592
+training accuracy is, 0.8728
+test accuracy is, 0.8516
+ epoch, 333, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9512379531813274, J_total=1.10281740836928, J_test=1.1805156664274767, J_diff=-0.07769825805819663
+training accuracy is, 0.8732
+test accuracy is, 0.852
+ epoch, 334, alpha: 0.001, lmbda: 0.001, J_batch = : 0.94974219823929, J_total=1.1003563265071918, J_test=1.1782781684249277, J_diff=-0.07792184191773588
+training accuracy is, 0.8736
+test accuracy is, 0.8523
+ epoch, 335, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9482562054242193, J_total=1.0979075071860034, J_test=1.1760530492473622, J_diff=-0.07814554206135882
+training accuracy is, 0.8736
+test accuracy is, 0.8527
+ epoch, 336, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9467798744476272, J_total=1.095470879576906, J_test=1.1738402339632905, J_diff=-0.0783693543863846
+training accuracy is, 0.8732
+test accuracy is, 0.8528
+ epoch, 337, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9453131065201446, J_total=1.0930463732332412, J_test=1.1716396480240945, J_diff=-0.07859327479085332
+training accuracy is, 0.8732
+test accuracy is, 0.8533
+ epoch, 338, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9438558043265071, J_total=1.090633918085732, J_test=1.1694512172604778, J_diff=-0.07881729917474578
+training accuracy is, 0.8732
+test accuracy is, 0.8535
+ epoch, 339, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9424078720009512, J_total=1.0882334444379442, J_test=1.167274867879124, J_diff=-0.07904142344117981
+training accuracy is, 0.874
+test accuracy is, 0.8536
+ epoch, 340, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9409692151029988, J_total=1.0858448829619638, J_test=1.1651105264595487, J_diff=-0.07926564349758491
+training accuracy is, 0.874
+test accuracy is, 0.8538
+ epoch, 341, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9395397405936337, J_total=1.0834681646942899, J_test=1.1629581199511396, J_diff=-0.07948995525684976
+training accuracy is, 0.874
+test accuracy is, 0.854
+ epoch, 342, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9381193568118624, J_total=1.0811032210319276, J_test=1.1608175756703716, J_diff=-0.07971435463844401
+training accuracy is, 0.874
+test accuracy is, 0.8544
+ epoch, 343, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9367079734516511, J_total=1.0787499837286665, J_test=1.1586888212981907, J_diff=-0.07993883756952425
+training accuracy is, 0.874
+test accuracy is, 0.8546
+ epoch, 344, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9353055015392342, J_total=1.076408384891553, J_test=1.1565717848775614, J_diff=-0.0801633999860083
+training accuracy is, 0.8748
+test accuracy is, 0.8547
+ epoch, 345, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9339118534107866, J_total=1.0740783569775265, J_test=1.1544663948111602, J_diff=-0.08038803783363369
+training accuracy is, 0.8748
+test accuracy is, 0.8552
+ epoch, 346, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9325269426904598, J_total=1.0717598327902316, J_test=1.1523725798592153, J_diff=-0.08061274706898369
+training accuracy is, 0.8752
+test accuracy is, 0.8553
+ epoch, 347, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9311506842687678, J_total=1.0694527454769824, J_test=1.1502902691374823, J_diff=-0.0808375236604999
+training accuracy is, 0.8752
+test accuracy is, 0.8555
+ epoch, 348, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9297829942813235, J_total=1.0671570285258811, J_test=1.1482193921153505, J_diff=-0.08106236358946939
+training accuracy is, 0.8752
+test accuracy is, 0.8559
+ epoch, 349, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9284237900879215, J_total=1.0648726157630795, J_test=1.146159878614064, J_diff=-0.08128726285098464
+training accuracy is, 0.8752
+test accuracy is, 0.8562
+ epoch, 350, alpha: 0.001, lmbda: 0.001, J_batch = : 0.9270729902519501, J_total=1.0625994413501785, J_test=1.144111658805066, J_diff=-0.08151221745488746
+training accuracy is, 0.8752
+test accuracy is, 0.8565
