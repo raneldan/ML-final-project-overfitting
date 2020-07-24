@@ -2,6 +2,8 @@
 #Neural Network
 # 1 hidden layer of 25 units, output layer has 10 outputs {0,1,2...9}
 import math
+from random import random
+
 import numpy as np
 from scipy.io import loadmat
 from sklearn.preprocessing import OneHotEncoder
@@ -9,7 +11,7 @@ import matplotlib.pyplot as plt
 import mnist_loader
 import pdb
 
-data_set_size = 1250
+data_set_size = 2500
 
 
 
@@ -30,6 +32,7 @@ y_matrix=np.reshape(np.concatenate(training_data[:,1]),(data_set_size,10))
 
 X_test=np.reshape(np.concatenate(test_data[:,0]),(10000,784))
 y_test=np.reshape(np.concatenate(np.array([test_data[:,1]]).T),(10000,1))
+
 
 encoder=OneHotEncoder(sparse=False)
 y_test=encoder.fit_transform(y_test)
@@ -121,9 +124,10 @@ def miniBatch(epochs,alpha,batch_size,Xc,y_matrix,lmbda):
             theta[2]=theta[2]-alpha*Theta2_grad
         J_total=computeCost(Xc,theta,y_matrix,lmbda);
         J_test=computeCost(X_test,theta,y_test,lmbda);
-        print(f' epoch: {j+1}, alpha: {alpha}, lmbda: {lmbda}, J_batch = : {J}, J_total={J_total}, J_test={J_test}, J_diff={(J_total-J_test)}')
-        print(f'training accuracy is {accuracy(X,theta,y_test=y_matrix)}')
-        print(f'test accuracy is {accuracy(X_test,theta)}')
+
+        print(f' epoch, {j+1}, alpha: {alpha}, lmbda: {lmbda}, J_batch = : {J}, J_total={J_total}, J_test={J_test}, J_diff={(J_total-J_test)}')
+        print(f'training accuracy is, {accuracy(X,theta,y_test=y_matrix)}')
+        print(f'test accuracy is, {accuracy(X_test,theta)}')
         
     return theta
 
@@ -203,4 +207,4 @@ def showImage(img):
 
 if __name__ == "__main__":
     
-    theta=trainMiniBatch(epochs=80,batch_size=10,alpha=.001,lmbda=.001)
+    theta=trainMiniBatch(epochs=350,batch_size=10,alpha=.001,lmbda=.001)
